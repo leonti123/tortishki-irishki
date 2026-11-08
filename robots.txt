@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tortishki-irishki.ru/sitemap.xml
